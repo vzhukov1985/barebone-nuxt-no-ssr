@@ -1,0 +1,11 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@asyncapi/bundler": "^0.3.11",
+    "@asyncapi/modelina": "3.6.0",
+    "ip": "^2.0.1",
+    "vue-i18n-extract": "^2.0.7"
+  }
+}

@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Nata Sans';
+    src: url('NataSans-Black.woff2') format('woff2'),
+        url('NataSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nata Sans';
+    src: url('NataSans-Light.woff2') format('woff2'),
+        url('NataSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nata Sans';
+    src: url('NataSans-Regular.woff2') format('woff2'),
+        url('NataSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nata Sans';
+    src: url('NataSans-Bold.woff2') format('woff2'),
+        url('NataSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nata Sans';
+    src: url('NataSans-Semibold.woff2') format('woff2'),
+        url('NataSans-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nata Sans';
+    src: url('NataSans-Thin.woff2') format('woff2'),
+        url('NataSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

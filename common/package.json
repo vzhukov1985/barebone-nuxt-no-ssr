@@ -1,0 +1,30 @@
+{
+  "name": "@barebone/common",
+  "version": "1.0.0",
+  "main": "./module.mjs",
+  "devDependencies": {
+    "@intlify/unplugin-vue-i18n": "^4.0.0",
+    "@nuxt/kit": "3.12.3",
+    "@nuxtjs/tailwindcss": "6.12.0",
+    "@pinia/nuxt": "^0.5.1",
+    "@types/node": "^20.14.9",
+    "@vueuse/core": "^10.11.0",
+    "decimal.js-light": "^2.5.1",
+    "maska": "^2.1.11",
+    "nuxt": "3.12.3",
+    "nuxt-icons": "^3.2.1",
+    "sass": "^1.77.6",
+    "sass-loader": "^14.2.1",
+    "typescript": "^5.5.3",
+    "vue-i18n": "^9.13.1",
+    "vue-i18n-extract": "^2.0.7",
+    "vue-json-pretty": "^2.4.0",
+    "vue-tsc": "^2",
+    "vue3-clipboard": "^1.0.0",
+    "yup": "^1.4.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "prepare": "nuxi prepare"
+  }
+}
